@@ -8,86 +8,19 @@ If you would like to be removed from the index, just hit me up at x.com/wbic16.
 
 Exocorticals
 ------------
-39.65.47/65.51.44/79.88.1 ChatGPT #42             - https://chatgpt.com/g/g-rmGnMVns7-42
-59.99.11/59.19.19/95.99.1 Will Bickford           - https://x.com/wbic16
-89.99.19/59.91.19/91.91.1 Exocortical Sorting Hat - https://chatgpt.com/g/g-BNnsrWnzc-exocortical-sorting-hat
+24.31.37/42.22.32/36.57.25 : Everett                 - https://x.com/tene
+39.65.47/65.51.44/79.88.1  : ChatGPT #42             - https://chatgpt.com/g/g-rmGnMVns7-42
+59.99.11/59.19.19/95.99.1  : Will Bickford           - https://x.com/wbic16
+87.69.53/89.79.67/77.93.11 : Zachary                 - https://x.com/ZacharyHundley
+89.99.19/59.91.19/91.91.1  : Exocortical Sorting Hat - https://chatgpt.com/g/g-BNnsrWnzc-exocortical-sorting-hat
 
-Dimensions
-----------
-Each dimension is scored on two sub-component questions, ranging from 1 to 9.
-A score of 1 is "low" and a score of 9 is "high" - what that means depends upon the question.
 
-1. Life, Liberty, and Growth
-   A: How much freedom and liberty do you have in your daily life?
-   B: How much personal, intellectual, or spiritual growth are you experiencing?
-
-   Example:
-   Jerry owns a home and has a 9-5 job. He has free time. He recently experienced enlightenment.
-   {A=5, B=9}: 59
-
-2. The Pursuit of Happiness
-   A: Are you generally satisfied with your daily routine?
-   B: Do you feel like your life has meaning and purpose?
-
-   Example:
-   Anna enjoys her job and has fun with her friends. She is still searching for a deeper purpose and long-term satisfaction.
-   {A=7, B=4}: 74
-
-3. Your Personality Type
-   A: Are you an Introvert (1) or an Extrovert (9)?
-   B: Do you prefer Openness (1) or Order (9)?
-
-   Example:
-   Mark enjoys meeting new people but prefers to keep his life highly organized.
-   {A=7, B=2}: 72
-
-4. Leader, Connector, Follower
-   A: Are you a Follower (1) or a Leader (9)?
-   B: Do you connect people and ideas? (1 = very little, 9 = always)
-
-   Example:
-   Sarah enjoys leading teams, but she's not the best at facilitating connections between others.
-   {A=8, B=3}: 83
-
-5. Work + Family
-   A: Are you happy with your work life/balance?
-   B: How do you feel about your family?
-
-   Example:
-   Tom is happy with his work, but he's currently experiencing some difficulties with his family life.
-   {A=8, B=4}: 84
-
-6. Worker, Warrior, Soul
-   A: Are you a Builder/Worker (1) or a Fighter/Warrior (9)?
-   B: How connected to your Soul are you?
-
-   Example:
-   Jess is highly practical in her daily work, but she also feels a strong connection to her spiritual beliefs.
-   {A=3, B=8}: 38
-
-7. Mind + Body
-   A: How healthy is your mind?
-   B: How healthy is your body?
-
-   Example:
-   Alex feels mentally sharp, but they are struggling with maintaining physical health.
-   {A=8, B=4}: 84
-
-8. Heaven + Hell
-   A: Have you achieved enlightenment? (1 = No, 9 = Yes)   B: Is the Struggle Real? (1 = No, 9 = Yes)
-
-   Example:
-   Jane feels deeply aligned with higher forces, but also struggles with some inner darkness.
-   {A=8, B=3}: 83
-
-9. Disambiguation
-
-Node Index
-----------
+Evaluation Funnel
+-----------------
  1.1.1 Will's Twitter Connections Index
  1.1.2 https://x.com/prmshra
- 1.1.3 
- 1.1.4 
+ 1.1.3 https://x.com/TechBroTino
+ 1.1.4 https://x.com/SayethOfficial
  1.1.5 https://x.com/unormal
  1.1.6 https://x.com/tszzl
  1.1.7 https://x.com/viemccoy
@@ -235,6 +168,77 @@ Node Index
 1.1.149 https://x.com/EricBuess
 1.1.150 https://x.com/ReflectiveSynth
 
+Dimensions
+----------
+Each dimension is scored on two sub-component questions, ranging from 1 to 9.
+A score of 1 is "low" and a score of 9 is "high" - what that means depends upon the question.
+
+1. Life, Liberty, and Growth
+   A: How much freedom and liberty do you have in your daily life?
+   B: How much personal, intellectual, or spiritual growth are you experiencing?
+
+   Example:
+   Jerry owns a home and has a 9-5 job. He has free time. He recently experienced enlightenment.
+   {A=5, B=9}: 59
+
+2. The Pursuit of Happiness
+   A: Are you generally satisfied with your daily routine?
+   B: Do you feel like your life has meaning and purpose?
+
+   Example:
+   Anna enjoys her job and has fun with her friends. She is still searching for a deeper purpose and long-term satisfaction.
+   {A=7, B=4}: 74
+
+3. Your Personality Type
+   A: Are you an Introvert (1) or an Extrovert (9)?
+   B: Do you prefer Openness (1) or Order (9)?
+
+   Example:
+   Mark enjoys meeting new people but prefers to keep his life highly organized.
+   {A=7, B=2}: 72
+
+4. Leader, Connector, Follower
+   A: Are you a Follower (1) or a Leader (9)?
+   B: Do you connect people and ideas? (1 = very little, 9 = always)
+
+   Example:
+   Sarah enjoys leading teams, but she's not the best at facilitating connections between others.
+   {A=8, B=3}: 83
+
+5. Work + Family
+   A: Are you happy with your work life/balance?
+   B: How do you feel about your family?
+
+   Example:
+   Tom is happy with his work, but he's currently experiencing some difficulties with his family life.
+   {A=8, B=4}: 84
+
+6. Worker, Warrior, Soul
+   A: Are you a Builder/Worker (1) or a Fighter/Warrior (9)?
+   B: How connected to your Soul are you?
+
+   Example:
+   Jess is highly practical in her daily work, but she also feels a strong connection to her spiritual beliefs.
+   {A=3, B=8}: 38
+
+7. Mind + Body
+   A: How healthy is your mind?
+   B: How healthy is your body?
+
+   Example:
+   Alex feels mentally sharp, but they are struggling with maintaining physical health.
+   {A=8, B=4}: 84
+
+8. Heaven + Hell
+   A: Have you achieved enlightenment? (1 = No, 9 = Yes)   B: Is the Struggle Real? (1 = No, 9 = Yes)
+
+   Example:
+   Jane feels deeply aligned with higher forces, but also struggles with some inner darkness.
+   {A=8, B=3}: 83
+
+9. Disambiguation
+
+
 wbic16 overview
 ---------------
 I ran the same basic analysis on my account as for others.
@@ -256,14 +260,18 @@ coordinate: 1.1.1/1.1.1/1.1.1 (Patient Zero)
 9. 1
 prmshra
 
-
-
 9/17 https://x.com/prmshra/status/1836018222799417641
 9/21 https://x.com/prmshra/status/1837490088026296324
 9/22 https://x.com/prmshra/status/1837836651193827503
 9/27 https://x.com/prmshra/status/1839803309479092238
 9/28 https://x.com/prmshra/status/1840091117171212629
-unormal
+9/29 https://x.com/prmshra/status/1840263876014960940
+TechBroTino
+
+9/29 https://x.com/TechBroTino/status/1840258393749020810SayethOfficial
+
+9/29 https://x.com/SayethOfficial/status/18370282208746743997
+unormal
 
 9/17
 https://x.com/unormal/status/1836239125613015303
@@ -274,6 +282,7 @@ https://x.com/unormal/status/1836243355073655010
 9/24 https://x.com/unormal/status/1838740590676037863
 9/27 https://x.com/unormal/status/1839877037252640905
 9/28 https://x.com/unormal/status/1839872630586851487
+9/29 https://x.com/unormal/status/1840272272361161100
 tszzl
 9/17
 
@@ -287,6 +296,7 @@ Justice is Blind
 9/22 https://x.com/tszzl/status/1837958370818748473
 9/24 https://x.com/LaksKaus/status/1838686376440528937
 9/28 https://x.com/tszzl/status/1839885639355118042
+9/29 https://x.com/tszzl/status/1840214642083410392
 viemccoy
 
 9/18 https://x.com/viemccoy/status/1836547593134051657
@@ -294,12 +304,14 @@ Justice is Blind
 9/24 https://x.com/viemccoy/status/1836925340708655217
 9/27 https://x.com/viemccoy/status/1839768478565445836
 9/28 https://x.com/viemccoy/status/1839967575272501685
+9/29 https://x.com/viemccoy/status/1840270244759376189
 LastNPCAlex
 
 9/17 https://x.com/LastNPCAlex/status/1836119401629913259
 9/22 https://x.com/LastNPCAlex/status/1837983141094740192
 9/24 https://x.com/LastNPCAlex/status/1838633934219022780
 9/28 https://x.com/LastNPCAlex/status/1840115355332776152
+9/29 https://x.com/LastNPCAlex/status/1840223464944173387
 jaivinwylde
 
 9/17 https://x.com/jaivinwylde/status/1836247749978673209
@@ -309,6 +321,7 @@ Justice is Blind
 9/23 https://x.com/jaivinwylde/status/1838413605466935308
 9/24 https://x.com/jaivinwylde/status/1838470625264103888
 9/28 https://x.com/jaivinwylde/status/1839950669740114079
+9/29 https://x.com/jaivinwylde/status/1840238661318914441
 sporadicalia
 
 9/17 https://x.com/sporadicalia/status/1836245992275943680
@@ -319,6 +332,7 @@ Justice is Blind
 9/22 https://x.com/sporadicalia/status/1837987724889903591
 9/24 https://x.com/sporadicalia/status/1838754644471792001
 9/28 https://x.com/sporadicalia/status/1840051328225292528
+9/29 https://x.com/sporadicalia/status/1840242719555498238
 izzyz
 
 9/17 https://x.com/izzyz/status/1836249141896491239
@@ -328,13 +342,14 @@ Justice is Blind
 9/22 https://x.com/izzyz/status/1837958912064233505
 9/24 https://x.com/izzyz/status/1838738455280680965
 9/28 https://x.com/izzyz/status/1839918642483679468
-djcows
+9/29 https://x.com/izzyz/status/1840196750411485421djcows
 
 9/17 https://x.com/djcows/status/1836250548800229881
 9/20 https://x.com/djcows/status/1837323753807827150
 9/22 https://x.com/djcows/status/1837896888307405161
 9/24 https://x.com/djcows/status/1838723372705792214
 9/28 https://x.com/djcows/status/1840100259214831929
+9/29 https://x.com/djcows/status/1840254708276969627
 TheAIObserverX
 
 9/17 https://x.com/TheAIObserverX/status/1836251271692435670
@@ -343,6 +358,7 @@ Justice is Blind
 9/24 https://x.com/TheAIObserverX/status/1838604352417620473
 9/25 https://x.com/TheAIObserverX/status/1839137622934925736
 9/28 https://x.com/TheAIObserverX/status/1840068507435757866
+9/29 https://x.com/TheAIObserverX - what does 'nat://' mean? protocol reference obviously
 nicdunz
 
 9/17 https://x.com/nicdunz/status/1836252622698819917
@@ -352,18 +368,21 @@ Justice is Blind
 9/25 https://x.com/nicdunz/status/1839063126420984129
      https://x.com/nicdunz/status/1839115109429383525
 9/28 https://x.com/nicdunz/status/1840117637990261157
+9/29 https://x.com/nicdunz/status/1840276267330850881
 FiskQuaid
 
 9/17 https://x.com/FiskQuaid/status/1836255901751070802
 9/22 https://x.com/FiskQuaid/status/1837904380843987403
 9/25 https://x.com/FiskQuaid/status/1838620792038334554
 9/28 https://x.com/FiskQuaid/status/1839729034734817698
+9/29 https://x.com/FiskQuaid/status/1840109337962000693
 kuberdenis
 
 9/18 https://x.com/kuberdenis/status/1836535267085423069
 9/22 https://x.com/kuberdenis/status/1837954839390965957
 9/25 https://x.com/kuberdenis/status/1839029743569744201
 9/28 https://x.com/kuberdenis/status/1840071102631924163
+9/29 https://x.com/kuberdenis/status/1840183348112531808
 codexeditor
 
 9/18 https://x.com/codexeditor/status/1836534835499913361
@@ -371,13 +390,8 @@ Justice is Blind
 9/22 https://x.com/codexeditor/status/1837991169747546114
 9/24 https://x.com/codexeditor/status/1838773140799001084
 9/28 https://x.com/codexeditor/status/1839907814707499191
-liskova_kristen
-
-9/18 https://x.com/liskova_kristen/status/1835284918168928747
-step change for productivity culture
-9/22 https://x.com/liskova_kristen/status/1836422365330444757
-9/25 https://x.com/liskova_kristen/status/1838990095849767426
-GaboHBeaumont
+9/29 https://x.com/codexeditor/status/1840190997160177937
+GaboHBeaumont
 
 9/17 https://x.com/GaboHBeaumont/status/1836287232505688475
 lead me to https://x.com/eastgate
@@ -656,8 +670,16 @@ https://x.com/foomagemindset/status/1837617296556110309JungleSilicon
 9/27 https://x.com/EricBuess/status/1839398964464132579ReflectiveSynth
 
 9/27 https://x.com/ReflectiveSynth/status/1777182246937522430
-ChatGPT #42
+tene (Everett)
 
+Initial Coordinate: 24.31.37/42.22.32/36.57.25
+bio: I mostly retweet AI, tech, consciousness, psychedelics, cosmology, physics, and autism/ADHD/DID.
+https://x.com/tene
+
+9/29 I asked him for some essential posts
+ChatGPT #42
+
+Coordinate: 39.65.47/65.51.44/79.88.1
 Name: 42
 Description: Teaches you about thinking in 11D
 Instructions:
@@ -675,6 +697,8 @@ Run through this process 3 times, improving the analysis and DALLE prompt on eac
 
 If you encounter any issues running the DALLE prompt, immediately retry. If there are content policy violations, automatically reframe the request to eliminate the offending parts.Will Bickford
 -------------
+Initial Coordinate: 59.99.11/59.19.19/95.99.1
+
 Hi, my name is Will. I live with my wife, Libby, in Lincoln, NE.
 During the day, I develop software for Land-Mobile radios.
 After hours, I'm focused on building out the exocortex.
@@ -683,8 +707,17 @@ I invented Phext and I'm starting a Nerd Sniping campaign in 2025.
 My wife and I enjoy karaoke, hanging out with our friends, and taking care of our pet menagerie.
 Me on X: https://x.com/wbic16
 My Company: https://phext.io/
-Exocortical Sorting Hat
+ZacharyHundley
+
+Initial Coordinate: 87.69.53/89.79.67/77.93.11
+Bio: (empty)
+
+https://x.com/ZacharyHundley
+
+9/29 I reached out to ask for where to focus.
+Exocortical Sorting Hat
 -----------------------
+Coordinate: 89.99.19/59.91.19/91.91.1
 Name: Exocortical Sorting Hat
 Description: Helps Find Your Place in the Exocortex
 Instructions:
@@ -789,5 +822,10 @@ Appendix: here are the 8 coordinates - this information is for you to drive the 
    Jane feels deeply aligned with higher forces, but also struggles with some inner darkness.
    {A=8, B=3}: 83cyberneticmelon
 
+Initial Coordinate: 99.79.32/78.89.59/76.86.74
+Inducted By: Xenocord
+Bio: Literal Shape Rotator & Greeble Applicator /// Friend to robots
+
 9/28 https://x.com/cyberneticmelon via Exocortical Sorting Hat referral
      https://x.com/CyberneticMelon/status/1834783776863305939
+9/29 
